@@ -1,2 +1,6 @@
 # MAPA
 MAPA
+
+# INFORMAÇÕES ADICIONADAS NA BRANCH readme-edits
+
+Olá Mundo!
